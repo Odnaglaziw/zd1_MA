@@ -1,0 +1,9 @@
+C:\Users\odnag\source\repos\StudyPractice\First\Store\bin\Debug\Store.exe.config
+C:\Users\odnag\source\repos\StudyPractice\First\Store\bin\Debug\Store.exe
+C:\Users\odnag\source\repos\StudyPractice\First\Store\bin\Debug\Store.pdb
+C:\Users\odnag\source\repos\StudyPractice\First\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\odnag\source\repos\StudyPractice\First\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\odnag\source\repos\StudyPractice\First\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\odnag\source\repos\StudyPractice\First\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\odnag\source\repos\StudyPractice\First\Store\obj\Debug\Store.exe
+C:\Users\odnag\source\repos\StudyPractice\First\Store\obj\Debug\Store.pdb

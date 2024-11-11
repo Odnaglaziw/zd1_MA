@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\ProjectSelect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76DB21C1-B6A3-4E7B-AE4B-6272A3B77CD3}|..\\Playlist\\Playlist.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\first\\playlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DB21C1-B6A3-4E7B-AE4B-6272A3B77CD3}|..\\Playlist\\Playlist.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\first\\playlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DB21C1-B6A3-4E7B-AE4B-6272A3B77CD3}|..\\Playlist\\Playlist.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\first\\playlist\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DB21C1-B6A3-4E7B-AE4B-6272A3B77CD3}|..\\Playlist\\Playlist.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\first\\playlist\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DB21C1-B6A3-4E7B-AE4B-6272A3B77CD3}|..\\Playlist\\Playlist.csproj|c:\\users\\odnag\\source\\repos\\studypractice\\first\\playlist\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Playlist\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Playlist\\Form1.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:07:48.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Playlist.cs",
+              "RelativeDocumentMoniker": "..\\Playlist\\Playlist.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Playlist.cs",
+              "RelativeToolTip": "..\\Playlist\\Playlist.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:18:54.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Playlist\\Form1.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Playlist\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:10:38.052Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Playlist\\Form1.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Form1.cs",
+              "RelativeToolTip": "..\\Playlist\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:07:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Song.cs",
+              "RelativeDocumentMoniker": "..\\Playlist\\Song.cs",
+              "ToolTip": "C:\\Users\\odnag\\source\\repos\\StudyPractice\\First\\Playlist\\Song.cs",
+              "RelativeToolTip": "..\\Playlist\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:01:33.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\bin\Debug\ProjectSelect.exe.config
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\bin\Debug\ProjectSelect.exe
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\bin\Debug\ProjectSelect.pdb
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\obj\Debug\ProjectSelect.csproj.AssemblyReference.cache
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\obj\Debug\ProjectSelect.csproj.CoreCompileInputs.cache
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\obj\Debug\ProjectSelect.exe
+C:\Users\odnag\source\repos\StudyPractice\First\ProjectSelect\obj\Debug\ProjectSelect.pdb

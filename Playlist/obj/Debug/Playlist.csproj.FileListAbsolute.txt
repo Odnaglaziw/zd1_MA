@@ -1,0 +1,10 @@
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\bin\Debug\Playlist.exe.config
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\bin\Debug\Playlist.exe
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\bin\Debug\Playlist.pdb
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.csproj.AssemblyReference.cache
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.Properties.Resources.resources
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.csproj.GenerateResource.cache
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.csproj.CoreCompileInputs.cache
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.exe
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.pdb
+C:\Users\odnag\source\repos\StudyPractice\First\Playlist\obj\Debug\Playlist.Form1.resources

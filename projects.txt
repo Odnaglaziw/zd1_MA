@@ -1,0 +1,3 @@
+cat;..\..\..\Cat\bin\Debug\Cat.exe
+shop;..\..\..\Store\bin\Debug\Store.exe
+playlist;..\..\..\Playlist\bin\Debug\Playlist.exe
